@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# List of beans
+1. Kidney
+2. Pinto
+  1. Fava
+  2. Lima
